@@ -1,0 +1,4 @@
+#คำนวนฟังชันก์ คณิตศาสตร์
+import math
+a = math.exp(16)
+print(a)
