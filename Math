@@ -2,9 +2,13 @@
 import math
 a = math.exp(16)
 print(a)
-#คำนวนฟังชันก์ คณิตศาสตร์
-#คำนวนฟังชันก์ คณิตศาสตร์
-#คำนวนฟังชันก์ คณิตศาสตร์
-#คำนวนฟังชันก์ คณิตศาสตร์
-#คำนวนฟังชันก์ คณิตศาสตร์
-#คำนวนฟังชันก์ คณิตศาสตร์
+math.log() #(x,base)
+math.sqrt() # รูท
+math.sin()
+math.cos()
+b = math.degrees(5)
+math.radians()
+math.pi #ค่า pie
+math.e #ค่า e
+
+
